@@ -1,0 +1,152 @@
+{
+    "navbar": {
+      "home": "Home",
+      "about": "About",
+      "products": "Products",
+      "contact": "Contact",
+      "droptit": "Products",
+      "dropitm1": "Grains",
+      "dropitm2": "Spices",
+      "dropitm3": "Other Product",
+      "language": "عربي"
+    },
+    "home": {
+      "whats": "Fast Link"
+      
+    },
+    "slider": {
+        "fsliderH": "Mokhtar Company",
+        "fsliderP": "Import & export foodstuffs",
+        "ssliderH": "In the Middle East",
+        "ssliderP": "Exports & imports throughout the year"
+      },
+    "whyus": {
+        "whyh": "Why Mokhtar Company",
+        "whyt1": "Extensive Experience",
+        "whytxt1": "With over 30 years of expertise in importing and exporting legumes, spices, and dates, we guarantee unmatched quality and exceptional service.",
+        "whyt2": "Commitment to Sustainability",
+        "whytxt2": "We believe in the importance of sustainable practices and actively support sustainable agriculture while empowering local communities.",
+        "whyt3": "Premium Quality Products",
+        "whytxt3": "We are committed to delivering high-quality products, carefully selected to meet the needs of our customers.",
+        "whyt4": "Outstanding Customer Service",
+        "whytxt4": "Our professional team is always available to provide support and answer your inquiries, making your decision-making process easier.",
+        "whyt5": "Global Network",
+        "whytxt5": "Our company boasts strong partnerships with international suppliers, allowing us to offer a wide range of products at competitive prices."
+        
+      },
+
+"work": {
+        "workh": "Al-Mukhtar Import & Export Company",
+        "workp": "Our company specializes in selecting the finest types of legumes and spices, ensuring their safety and quality to meet the needs of both local and international markets. We also take pride in offering a diverse range of high-quality dates that reflect our heritage and culture.",
+        "workbtn":"More Information"
+      },
+"hcontact": {
+        "hcontacth":"Contact Us",
+        "hcontactp": "Be one of our customers to stay in touch and get more information ..",
+        "hcontactlab1":"Email Address",
+        "hcontactlab2":"Phone Number",
+        "hcontactlab3":"Address",
+        "hcontactlab4":"Your Message",
+        "hcontactlab5":"Submit",
+        "hcontactsuc":"Your message has been sent successfully."
+      },
+"hproducts": {
+        "hproductsh1":"Our Products",
+        "hproductsh2":"See All Products",
+        "hproductsbt1": "Grains",
+        "hproductsbt2": "Spices",
+        "hproductsbt3": "Others"
+        
+      },
+
+
+      
+      "about": {
+            "leftcontH": "About Us",
+            "leftcontP1": "Our company specializes in selecting the finest types of legumes and spices, ensuring their safety and quality to meet the needs of both local and international markets. We also take pride in offering a diverse range of high-quality dates that reflect our heritage and culture.",
+  "leftcontP2": "At Al-Mukhtar Company, we believe in the importance of building long-term business relationships with our clients and partners. We always strive to provide exceptional services that meet their expectations and contribute to the growth of their businesses.",
+  "leftcontP3": "Join us on our journey toward quality and excellence. We are here to be your trusted partner in the world of import and export.",
+  "leftcontP4": "For inquiries or more information, don't hesitate to contact us!"           },
+
+
+
+
+  "contact": {
+"lefconth1":"Call us or visit us at any time, and we strive to respond to all inquiries within 24 hours throughout the week.",
+"lefconth2":"We look forward to your inquiries and communication so we can be long-term partners in success.",
+"lefcontp1":"Mansoura - Sikkat Sandoub Street, in front of Al-Assawi Cemetery",
+"lefcontp2":"We are open from 8 AM to 12 midnight every day.",
+"maphead":"Our Location On Map",
+"lefconthh":"Services"
+  },
+
+  "products": {
+    "cardp1":"Cereal grains are among the most important food sources in the human diet. They are rich in carbohydrates, providing the body with energy, and they also contain fiber that supports digestive health.",
+    "cardp2":"Grains help reduce the risk of chronic diseases like heart disease and diabetes while supplying essential vitamins and minerals.It is recommended to consume whole grains instead of refined ones to maximize nutritional benefits,which contributes to overall health improvement and maintaining an ideal weight.",
+    "cardh":"Grains"
+  },
+  "spicesproducts": {
+    "cardp1":"Spices are among the most important ingredients in the human diet, adding distinctive flavors to food while providing numerous health benefits. They are rich in antioxidants and natural compounds that support digestive health and boost immunity.",
+    "cardp2":"Spices help reduce the risk of chronic diseases like heart disease and diabetes. They also contribute to better metabolism and overall well-being. It is recommended to use natural spices instead of artificial flavorings to maximize their nutritional benefits and improve quality of life.",
+    "cardh":"Spices"
+  },
+
+
+  "datesproducts": {
+    "cardp1": "Dates are one of the most nutritious and important fruits in the diet, providing natural energy due to their high content of natural sugars. They are also rich in fiber, which promotes digestive health and improves digestion.",
+    "cardp2": "Dates contain a variety of vitamins and minerals such as potassium and magnesium, which contribute to heart health and stronger bones. It is recommended to consume dates as a healthy alternative to processed sugars to support overall health and provide natural energy.",
+    "cardh":"Dates"
+  },
+
+"chocolateproducts": {
+    "cardp1": "Chocolate is one of the most widely consumed products worldwide, known for its delicious taste and health benefits when eaten in moderation. Dark chocolate, in particular, is rich in antioxidants that support heart health and improve mood.",
+    "cardp2": "Chocolate contains natural compounds that help reduce stress and stimulate the production of happiness hormones. It is recommended to choose dark chocolate with a high cocoa percentage for maximum nutritional benefits and overall well-being.",
+    "cardh":"Chocolate"
+  },
+
+  "productsnames":{
+    "products1": "Brazilian Lupin",
+    "products2": "Brazilian Cowpea",
+    "products3": "Local Cowpea",
+    "products4": "Local Whole Grains",
+    "products5": "Brown Lentils",
+    "products6": "Popcorn corn",
+  "products7": "Turkish lentils"
+  },
+
+  "sproductsnames":{
+    "sproducts19": "Whole Cumin",
+    "sproducts18": "Brazilian Pepper",
+    "sproducts17": "Whole Ginger",
+    "sproducts16": "Local Fenugreek",
+    "sproducts15": "Local Coriander",
+    "sproducts14": "Coriander",
+    "sproducts13": "Bay Leaves",
+    "sproducts12": "Raisins",
+    "sproducts11": "Cinnamon Sticks",
+    "sproducts10": "Cardamom",
+    "sproducts9": "Jumbo Cardamom",
+    "sproducts8": "Ground Cardamom",
+    "sproducts7": "Whole Turmeric",
+    "sproducts6": "Madagascar Cloves",
+    "sproducts5": "Chili Pods",
+    "sproducts4": "Guava Leaves",
+    "sproducts3": "Ground Chili",
+    "sproducts2": "Ground Paprika",
+    "sproducts1": "Citric Acid"
+  },
+
+
+
+    "footer": {
+        "titlecont": "Contact Us",
+        "titleQuick": "Quick Links",
+        "titleicon": "Follow Us",
+        "addres": "mansoura-mansoura-masr",
+        "linkabout": "About Us",
+        "linkhome": "Home",
+        "linkcontact": "Contact Us",
+        "linkproducts": "Products"
+      }
+  }
+  

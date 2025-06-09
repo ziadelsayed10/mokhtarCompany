@@ -1,0 +1,20 @@
+h2{
+  color: var(--title);
+}
+
+
+  
+  .com-p {
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 500;
+  }
+  
+  .com-button {
+    margin-top: 20px;
+   font-size: 16px;
+    font-weight: 500; 
+  }
+  .cardd{
+    width: 100% !important;
+  }

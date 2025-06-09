@@ -1,0 +1,51 @@
+
+h2,h5{
+  color: var(--title);
+}
+h2{
+  padding: 10px;
+}
+
+/* Add animation styles */
+.affiliate-card {
+    /* background-color: #222; */
+    color: var(--subtitle);
+    padding: 20px;
+    border-radius: 10px;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); */
+    transform: translateZ(-500px);              /*////q/////*/
+    transform: scale(-0.2);
+    opacity: 0;
+    transition: transform 1s, opacity 2s;
+  }
+  
+  .affiliate-card.animate-in {
+    transform: translateZ(0);
+    opacity: 1;
+    transform: scale(1);
+  
+  }
+  
+  .icon-wrapper {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;                 /*////q/////*/
+    background-color: #fff;
+  }
+  
+  .icon {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  @media (max-width: 768px) {
+    .affiliate-card {
+      margin-bottom: 20px;
+    }
+  }
+  
+  
+  

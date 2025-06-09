@@ -1,0 +1,40 @@
+
+
+/* .slider-products-imgg{
+  width: 100%;
+    
+  }
+  @media (max-width:570px) {
+    .slider-products-imgg{
+      height: 34vh;
+  
+      background-size: contain;
+  
+    }
+   
+  }
+  @media (min-width:570px) {
+    .slider-products-imgg{
+      height: 59vh; ;
+    
+      background-size: contain ;
+  
+    }
+  }
+   */
+
+
+  
+   .spslider{
+    height: 36vh ;
+   
+     background-size: contain ;
+ 
+   }
+ 
+
+   @media (max-width: 768px) {
+    .spslider{
+      height: 28vh ;
+    }
+   }

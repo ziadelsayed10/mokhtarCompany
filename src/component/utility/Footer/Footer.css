@@ -1,0 +1,85 @@
+/* تنسيق الفوتر الرئيسي */
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: var(--secondary);
+    color: var(--subtitle);
+  }
+  
+  /* تنسيق الأعمدة */
+  .footer-column {
+    width: 30%;
+  }
+  
+  .footer-column h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+    color:var(--title);
+padding: 15px;
+background-color: var(--subtitle);
+width: fit-content;
+border-radius: 30px;
+  }
+  
+  /* تنسيق العناصر داخل الخانة الأولى */
+  .footer-item {
+    display: flex;
+    align-items: start;
+    margin-bottom: 10px;
+  }
+  .footer-item-p{
+    font-weight: 600;
+  }
+   .foot-ico {
+    /* margin-right: 10px; */
+    font-size: 20px;
+    margin-top: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+  }
+  /* تنسيق الروابط في الخانة الثانية */
+  .footer-column a {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    /* color: #12424c; */
+    color: var(--subtitle);
+
+    font-weight: 600;
+  }
+  
+  .footer-column a:hover {
+    color: #088178;
+  }
+  
+  /* تنسيق أيقونات السوشيال ميديا في الخانة الثالثة */
+  .social-icons a {
+    margin-right: 10px;
+    /* color: #12424c; */
+    color: var(--subtitle);
+
+    font-size: 24px;
+  }
+  
+  .social-icons a:hover {
+    color: #088178;
+  }
+  
+
+
+
+
+
+
+  @media (max-width: 550px) {
+    .footer{flex-direction: column;}
+    
+    
+    .footer-column{
+        width: 100%;
+    }
+    
+    
+    
+    }
